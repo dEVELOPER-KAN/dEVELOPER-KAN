@@ -3,7 +3,8 @@
 
 🔭 I have my hands on 
 
-   :snowflake:Frontend Technologies:
+   :snowflake:
+   Frontend Technologies:
     HTML
     CSS 
     Javascript

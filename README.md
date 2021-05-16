@@ -1,8 +1,6 @@
 ###                                                               Hi there 👋 I'm Kanhiya
    #Full Stack Developer
 
-🔭 I have my hands on 
-
    :snowflake:
    Frontend Technologies:
    :flashlight: HTML

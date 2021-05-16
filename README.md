@@ -12,14 +12,14 @@
    :flashlight: React
     
   :snowflake:Backend Technologies:
-   Node JS
-   Express
-   PHP
-   Codeigniter
+   :flashlight:Node JS
+   :flashlight:Express
+   :flashlight:PHP
+   :flashlight:Codeigniter
     
    :snowflake:Databases
-    MY SQL
-    Mongo DB
+    :flashlight:MY SQL
+    :flashlight:Mongo DB
 
 
 🌱 I have my hands on React Native too.

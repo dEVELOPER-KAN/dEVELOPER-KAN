@@ -17,7 +17,7 @@
    Codeigniter
    </pre>
     
-  <pre>Databases
+  <pre>Databases:
    MY SQL
    Mongo DB
    </pre>

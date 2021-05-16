@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋 I'm Kanhiya
+   #Full Stack Developer
 
-<!--
-**kanhiya94/kanhiya94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I have my hands on 
 
-Here are some ideas to get you started:
+:snowflake:Frontend Technologies:
+    HTML
+    CSS 
+    Javascript
+    BootStrap v4
+    React
+   
+   
+    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning GraphQL, React-Native & Prisma
+
+📫 Reach me on Discord kanhiya94#5733
+
+

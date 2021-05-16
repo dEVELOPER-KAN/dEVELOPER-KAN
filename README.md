@@ -5,11 +5,11 @@
 
    :snowflake:
    Frontend Technologies:
-    HTML
-    CSS 
-    Javascript
-    BootStrap v4
-    React
+   :flashlight: HTML
+   :flashlight: CSS 
+   :flashlight: Javascript
+   :flashlight:BootStrap v4
+   :flashlight: React
     
   :snowflake:Backend Technologies:
    Node JS

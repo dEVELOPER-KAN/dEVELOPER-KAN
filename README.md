@@ -2,14 +2,14 @@
 <h3 align="center"> #Full Stack Developer</h3> 
 <hr>
   
-   :snowflake:
-   <pre> Frontend Technologies:</pre>
-  
-   :flashlight: HTML
+   :snowflake: <pre> Frontend Technologies:</pre>
+   
+   <blackquote>:flashlight: HTML
    :flashlight: CSS 
    :flashlight: Javascript
    :flashlight:BootStrap v4
    :flashlight: React
+  </blackquote>
     
   :snowflake:Backend Technologies:
    :flashlight:Node JS

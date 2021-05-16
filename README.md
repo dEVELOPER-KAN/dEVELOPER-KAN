@@ -1,4 +1,4 @@
-###                                                               Hi there 👋 I'm Kanhiya
+<h1 style="text-align:center">Hi there 👋 I'm Kanhiya</h1> 
    #Full Stack Developer
 
    :snowflake:

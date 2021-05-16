@@ -18,8 +18,8 @@
    </pre>
     
   <pre>Databases
-    MY SQL
-    Mongo DB
+   MY SQL
+   Mongo DB
    </pre>
 
 🌱 I have my hands on React Native too.

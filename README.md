@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Kanhiya</h1> 
 <h3 align="center"> #Full Stack Developer</h3> 
 <hr>
-  
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=sergeyshaykhullin&count_private=true&show_icons=true&hide_title=true&hide=stars" />
   <pre> Frontend Technologies:
    HTML
    CSS 

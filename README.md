@@ -27,6 +27,6 @@
 📫 Reach me on Discord kanhiya94#5733
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergeyshaykhullin&count_private=true&show_icons=true&hide_title=true&hide=stars" />
+<img align="centre" src="https://github-readme-stats.vercel.app/api?username=sergeyshaykhullin&count_private=true&show_icons=true&hide_title=true&hide=stars" />
 
 

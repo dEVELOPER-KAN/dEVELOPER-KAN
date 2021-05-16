@@ -1,5 +1,6 @@
-<h1 style="text-align:center">Hi there 👋 I'm Kanhiya</h1> 
-   #Full Stack Developer
+<h1 align="center">Hi there 👋 I'm Kanhiya</h1> 
+<h3 align="center"> #Full Stack Developer</h3> 
+  
 
    :snowflake:
    Frontend Technologies:

@@ -10,16 +10,17 @@
    React
   </pre>
     
-  :snowflake:Backend Technologies:
-   :flashlight:Node JS
-   :flashlight:Express
-   :flashlight:PHP
-   :flashlight:Codeigniter
+  <pre>Backend Technologies:
+   Node JS
+   Express
+   PHP
+   Codeigniter
+   </pre>
     
-   :snowflake:Databases
-    :flashlight:MY SQL
-    :flashlight:Mongo DB
-</pre>
+  <pre>Databases
+    MY SQL
+    Mongo DB
+   </pre>
 
 🌱 I have my hands on React Native too.
 

@@ -27,6 +27,6 @@
 📫 Reach me on Discord kanhiya94#5733
 
 
-![](https://github-readme-stats.vercel.app/api?username=kanhiya94&show_icons=true&theme=great-gatsby&hide=stars&border_radius=6&count_private=true)
+![](https://hit.yhype.me/github/profile?username=kanhiya94)
 
 

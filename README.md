@@ -1,7 +1,8 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Kanhiya</h1> 
 <h3 align="center"> #Full Stack Developer</h3> 
 <hr>
-<p align="right">📫 Reach me on Discord kanhiya94#5733</p>
+<p align="right">📫 Reach me on Discord</p>
+<p align="right">- kanhiya94#5733</p>
 <br>
 
   <pre> Frontend Technologies:

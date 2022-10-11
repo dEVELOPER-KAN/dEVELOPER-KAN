@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Kanhiya</h1> 
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm a Software Developer</h1> 
 <h3 align="center"> #Full Stack Developer</h3> 
 <hr>
 <p align="right">📫 Reach me on Discord</p>
